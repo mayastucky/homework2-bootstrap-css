@@ -1,9 +1,25 @@
+/* Navbar background color, font, and font-weight*/
 .navbar-brand {
   background-color: lightseagreen;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: bold;
 }
 
+/* Navbar "Maya Stucky" text to white */
 .navbar-light .navbar-brand {
   color: white;
+}
+
+/* Footer */
+/* Referenced: https://www.w3schools.com/howto/howto_css_fixed_footer.asp for how to fix footer to bottom */
+footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: dimgray;
+    text-align: center;
+    color: lightslategray;
+    border-top: 5px solid lightseagreen;
 }
