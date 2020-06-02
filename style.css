@@ -24,33 +24,44 @@ footer {
   border-top: 5px solid lightseagreen;
 }
 
+/* Creates padding for space between header and content */
 main {
   padding: 70px;
 }
 
+/* Gives border to the kitten image */
 .kitten {
   padding: 5px;
   float: left;
 }
 
+/* White container for content */
 #whiteborder {
   background-color: white;
 }
 
+/* Background Image */
 body {
   background-image: url(background.png);
 }
 
+/* Styling for all web page headings */
 h2 {
   color: lightseagreen;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: bold;
+  padding: 20px;
+  border-bottom: 1px solid lightslategray;
 }
 
+/* Margin for kitten pic in portfolio */
 .portfolio-kitten1 {
   margin: 30px;
+
 }
 
+/* Margin for Fill Murray pic in portfolio */
 .portfolio-murray {
   margin: 30px;
+  position: relative;
 }
