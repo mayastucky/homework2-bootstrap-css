@@ -24,6 +24,25 @@ footer {
   border-top: 5px solid lightseagreen;
 }
 
-main{
-  padding: 70px; 
+main {
+  padding: 70px;
+}
+
+.kitten {
+  padding: 5px;
+  float: left;
+}
+
+#whiteborder {
+  background-color: white;
+}
+
+body {
+  background-color: mistyrose;
+}
+
+h2 {
+  color: lightseagreen;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
 }
