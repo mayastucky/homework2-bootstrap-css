@@ -55,18 +55,12 @@ h2 {
   border-bottom: 1px solid lightgrey;
 }
 
-/* Margin for kitten pic in portfolio */
-.portfolio-kitten1 {
-  margin: 30px;
-}
-
-/* Margin for Fill Murray pic in portfolio */
-.portfolio-murray {
-  margin: 30px;
-  position: relative;
-}
-
 /* Changed color of button */
 .btn-primary {
   background-color: lightseagreen;
+}
+
+.portfolio-pic {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
