@@ -33,6 +33,7 @@ main {
 .kitten {
   padding: 5px;
   float: left;
+  margin: 10px; 
 }
 
 /* White container for content */
@@ -64,3 +65,5 @@ h2 {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+
