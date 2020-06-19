@@ -36,7 +36,19 @@
 main {
   padding: 70px;
 }
+h5 {
+  font-family: "Montserrat", sans-serif;
+  color: #81b29a;
+  padding: 20px;
+}
 
+a {
+  font-family: "Montserrat", sans-serif;
+  color: #3d405b;
+  margin: auto;
+  padding: 20px;
+  justify-content: center;
+}
 p {
   font-family: "Montserrat", sans-serif;
 }
