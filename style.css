@@ -48,11 +48,15 @@ main {
 #whiteborder {
   background-color: #f4f1de;
   padding-bottom: 10px;
+  margin: auto;
+  border-radius: 30px;
 }
 
 /* Background Image */
 body {
-  background-color: #f2cc8f;
+  /* background-color: #f2cc8f; */
+  /* background-image: url("https://wallpapercave.com/wp/wp1836700.jpg"); */
+  background-image: url("https://unsplash.com/photos/-c017F-rzew/download");
 }
 
 /* Styling for all web page headings */
@@ -60,7 +64,7 @@ h2 {
   color: #de8f6e;
   font-family: "Montserrat", sans-serif;
   padding: 20px;
-  border-bottom: 1px solid lightgrey;
+  /* border-bottom: 1px solid lightgrey; */
 }
 
 /* Changed color of button */
