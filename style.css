@@ -1,13 +1,21 @@
 /* Navbar background color, font, and font-weight*/
 .navbar-brand {
-  background-color: lightseagreen;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
+}
+
+.navbar {
+  font-family: "Montserrat", sans-serif;
+  background-color: #c0e6de !important;
 }
 
 /* Navbar "Maya Stucky" text to white */
 .navbar-light .navbar-brand {
-  color: white;
+  color: #de8f6e;
+}
+
+.nav-link {
+  color: #de8f6e !important;
 }
 
 /* Footer */
@@ -33,25 +41,24 @@ main {
 .kitten {
   padding: 5px;
   float: left;
-  margin: 10px; 
+  margin: 10px;
 }
 
 /* White container for content */
 #whiteborder {
-  background-color: white;
+  background-color: #f4f1de;
   padding-bottom: 10px;
 }
 
 /* Background Image */
 body {
-  background-image: url(background.png);
+  background-color: #f2cc8f;
 }
 
 /* Styling for all web page headings */
 h2 {
-  color: lightseagreen;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-weight: bold;
+  color: #de8f6e;
+  font-family: "Montserrat", sans-serif;
   padding: 20px;
   border-bottom: 1px solid lightgrey;
 }
@@ -65,5 +72,3 @@ h2 {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-
-
