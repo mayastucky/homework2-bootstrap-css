@@ -49,6 +49,13 @@ a {
   padding: 20px;
   justify-content: center;
 }
+
+a:hover {
+  color: white;
+  background-color: #f5cac3;
+  border-radius: 50%;
+}
+
 p {
   font-family: "Montserrat", sans-serif;
 }
