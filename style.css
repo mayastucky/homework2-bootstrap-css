@@ -18,6 +18,10 @@
   color: #de8f6e !important;
 }
 
+.figure-caption {
+  font-family: "Montserrat", sans-serif;
+}
+
 /* Footer */
 /* Referenced: https://www.w3schools.com/howto/howto_css_fixed_footer.asp for how to fix footer to bottom */
 /* footer {
@@ -50,7 +54,8 @@ a {
   justify-content: center;
 }
 
-a:hover {
+a.fancyclick:hover,
+a.fancyclick:active {
   color: white;
   background-color: #f5cac3;
   border-radius: 50%;
